@@ -1,4 +1,3 @@
 # MDGH
 MDGH
 
-theme: THEME-NAME
